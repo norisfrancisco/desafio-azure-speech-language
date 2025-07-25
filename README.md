@@ -1,20 +1,25 @@
-Neste projeto, utilizei o Azure Speech Studio para realizar uma gravação de áudio mencionando minha participação no curso de Análise de Dados da DIO, especificamente na disciplina de análise de sentimentos e opiniões. A transcrição foi realizada com sucesso e registrada por meio de capturas de tela, disponíveis na pasta /images.
+# 🗣️ Análise de Sentimentos com Azure Cognitive Services
 
+## 🎯 Objetivo
 
+Utilizar serviços de IA da Microsoft (Speech e Language) para explorar análise de sentimentos e transcrição de voz.
 
-Em seguida, utilizei o Language Studio (Cognitive Services) da Microsoft para aplicar uma análise de sentimentos a um texto baseado em uma experiência negativa real vivida por mim no aeroporto de Addis Abeba, na Etiópia. A ferramenta identificou corretamente o sentimento predominante (negativo), destacando frases-chave e entidades importantes.
+## 🧪 Etapas do Projeto
 
+1. **Gravação de Áudio (Speech Studio):**
+   - Gravei um áudio falando sobre minha participação no curso da DIO (Análise de Dados).
+   - A transcrição automática foi bem-sucedida.
+   - Capturas de tela estão na pasta `/images`.
 
+2. **Análise de Sentimentos (Language Studio):**
+   - Texto baseado em experiência negativa no aeroporto de Addis Abeba.
+   - O modelo identificou corretamente o sentimento predominante (negativo).
+   - Frases-chave e entidades foram destacadas automaticamente.
 
-Essa prática me permitiu experimentar os serviços de Inteligência Artificial da Microsoft voltados para voz e linguagem natural, compreendendo de forma prática como essas tecnologias podem ser aplicadas no mundo real.
+## 🧠 Aprendizado
 
+Essa prática me permitiu explorar aplicações reais de **Inteligência Artificial para linguagem natural**, utilizando os recursos gratuitos educacionais do **Microsoft Azure**.
 
+## 👤 Autor
 
-
-
-Para realizar as atividades, utilizei meu e-mail institucional para criar e acessar minha conta no Microsoft Azure. Com isso, consegui ativar os serviços necessários, como o Speech Studio e o Language Studio, sem custo adicional, aproveitando os benefícios educacionais oferecidos pela Microsoft.
-
-
-
-
-
+Francisco Noris — Projeto educacional desenvolvido no contexto do curso **Análise de Dados com Python - DIO**.
